@@ -1,7 +1,8 @@
 # DynamicQuotes
 
-<!-- ## Demo
-https://dynamicquotes.netlify.app/ -->
+## Demo
+
+https://maibanungacrorepati.netlify.app/
 
 ## Run Locally
 
